@@ -45,8 +45,8 @@ Working on various analytics based cases that facilitates clients for next-gener
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### RMIT
+Economics and Finance 2017
 
 <!-- EDUCATION Section Ends -->
 
