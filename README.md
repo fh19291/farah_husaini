@@ -23,7 +23,8 @@ I am __Farah Husaini__, a seasoned data scientist with ~7 years of progressive e
 [Experience](#experience) <br>
 [Education](#education) <br>
 [Projects](#projects) <br>
-[Featured](#featured) <br> 
+[Featured](#featured) <br>
+[Publications](#publications) <br>
 
 <!-- ABOUT Section Ends -->
 
@@ -83,3 +84,5 @@ Machine Learning by Columbia University
 ##### Achievements
 Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
+
+### PUBLICATIONS
