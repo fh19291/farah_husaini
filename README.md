@@ -3,9 +3,8 @@
 
 <!-- Add your details -->
 ✉️: nurfarah.husaini@gmail.com 
-&nbsp;&nbsp; 📲 +65-91887991
+&nbsp;&nbsp; 📲: +65-91887991
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/farah-husaini/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://www.linkedin.com/in/farah-husaini/)
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
