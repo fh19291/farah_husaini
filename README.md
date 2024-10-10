@@ -16,7 +16,7 @@
 
 <!-- Add your details -->
 
-I am __Farah Husaini__, a project manager with ~7 years of progressive experience in Financial services, Healthcare and recently, in Ed-tech. I have contributed my expertise as an Agile and AI member in Project Management Institute, Singapore Chapter, hosting in-person and webinar sessions for Project Management Professionals with upcoming events such as a 24-hour, APAC Agile Symposium 2024 this November, across regions.
+I am __Farah Husaini__, a project manager with ~7 years of progressive experience in Financial services, Healthcare and recently, in Ed-tech. I have contributed my expertise as an Agile and AI member in Project Management Institute, Singapore Chapter, hosting in-person and webinar sessions for Project Management Professionals with regional events such as APAC Agile Symposium 2024.
 
 
 <!-- Add link to the sections -->
@@ -128,7 +128,7 @@ AI-102 Microsoft AI Engineer Associate <br>
 PL-900 Microsoft Power Platform Fundamentals
 
 ##### Community Causes
-Tutor for students ages 7-16 under FAS (Financial Assistance Scheme) from 2020 to Present <br>
+Math Tutor for students ages 7-16 under FAS (Financial Assistance Scheme) <br>
 Volunteer Member at Project Management Insitute, Singapore Chapter (Agile and AI)
 
 <!-- FEATURED Section Ends -->
