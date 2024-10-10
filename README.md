@@ -128,9 +128,10 @@ AI-102 Microsoft AI Engineer Associate <br>
 PL-900 Microsoft Power Platform Fundamentals
 
 ##### Community Causes
-Tutor for students ages 7-16 under FAS (Financial Assistance Scheme) from 2020 to Present
+Tutor for students ages 7-16 under FAS (Financial Assistance Scheme) from 2020 to Present <br>
 Volunteer Member at Project Management Insitute, Singapore Chapter (Agile and AI)
 
 <!-- FEATURED Section Ends -->
 
 ### PUBLICATIONS
+White paper - Developing the Next Generation of Project Professionals
