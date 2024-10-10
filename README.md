@@ -32,7 +32,7 @@ I am __Farah Husaini__, a project manager with ~7 years of progressive experienc
 ### EXPERIENCE
 <!-- Add your details -->
 ##### PRODUCT HOUSE
-AI PROMPT ENGINEER SUPPORT<br>
+AI PROMPT ENGINEER SUPPORT <br>
 Mar-2024 to Jun-2024: 4 Months
 
 ROLE: genAI / Business Development Consultant
@@ -40,14 +40,47 @@ INDUSTRY: Education-Tech
 
 Research and evaluate different genAI platforms such OpenAI, CoPilot, Claude, and MistralAI to assess suitability to the project's goals. Perform testing and optimisation using benchmarks such as BLEU score. Cultivate and manage business development opportunities, documenting the process, configurations, and usage guidelines for future reference and scalability on Notion Teamspaces and MIRO.
 
-##### PRODUCT HOUSE
-AI PROMPT ENGINEER SUPPORT<br>
-Mar-2024 to Jun-2024: 4 Months
+##### NATIONAL UNIVERSITY HEALTH SYSTEMS (NUHS)
+SENIOR ASSISTANT MANAGER <br>
+Jul-2022 to Feb-2024: 1 Year 10 Months
 
-ROLE: genAI / Business Development Consultant
-INDUSTRY: Education-Tech
+ROLE: IT FINANCE
+INDUSTRY: HEALTHCARE
 
-Research and evaluate different genAI platforms such OpenAI, CoPilot, Claude, and MistralAI to assess suitability to the project's goals. Perform testing and optimisation using benchmarks such as BLEU score. Cultivate and manage business development opportunities, documenting the process, configurations, and usage guidelines for future reference and scalability on Notion Teamspaces and MIRO.
+Performed IT Finance budget performance improvement planning, including process checking and process streamlining. Highlighted financial gaps and developed analysis found in ATA/ ATP/ ITMC papers raised for approval based 
+on new knowledge and business acumen. Kept stakeholders from Ministry of Health (MOH), Synapxe and across NUHS institutions informed about progress and expected outcomes. 
+
+##### MONETARY AUTHORITY OF SINGAPORE (MAS)
+ASSISTANT DIRECTOR <br>
+Aug-2021 to Jan-2022: 6 Months
+
+ROLE: PMO / BUSINESS PARTNERS UNIT
+INDUSTRY: FINANCIAL SERVICES
+
+Secretariat duties in management meetings, including meeting coordination and taking minutes. Performed financial budgeting which includes budget administration, capex/opex allocation and process 
+checking. Support planning and execution of Group project management process transformation initiatives. Support planning and execution of PMO activities including project prioritisation, budgeting, resource 
+coordination and other ad-hoc duties across phases of project lifecycle. Worked closely with stakeholders to understand the scope of their projects as part of project prioritisation. 
+
+##### STANDARD CHARTERED BANK
+ANALYST <br>
+Oct-2019 to Dec-2020: 1 Year 3 Months
+
+ROLE: RESEARCH AND INSIGHTS ANALYST (CORPORATE, BRAND AND MARKETING)
+INDUSTRY: FINANCIAL SERVICES
+
+Problem solved with team to find the root cause for issues and dependencies faced using Agile. Built dashboard using Qualtrics from real time responses, which aided in drawing immediate insights.
+Developed analysis models using Q software to identify themes, strengths and areas of improvement. Prepared result decks to share with country and business heads as consumer insights, covering 9-12 markets.
+
+##### PRICEWATERHOUSECOOPERS (PwC)
+SENIOR ASSOCIATE <br>
+ASSOCIATE <br>
+Jul-2017 to Sep-2019: 2 Year 2 Months
+
+ROLE: BANKING AND CAPITAL MARKETS SENIOR ASSOCIATE (RISK, REGULATIONS AND COMPLIANCE)
+INDUSTRY: FINANCIAL SERVICES
+
+Implemented an agriculture trading system for an agri client as a PMO consultant, project value of $1M using a hybrid of Waterfall and Agile methodologies. Collaborated in a team of 4 to assist in implementing IFRS 9 Financial Instruments across the client’s APAC offices. Performed contract reviews on samples received to check compliance with SPPI test. Coordinated in a large team of 30 comprising of Project Assistants up to Manager level, to carry out internal 
+audit of schools in Singapore. This quarterly assessment included the identification of each school’s. Separately Managed Accounts and vouching of Invitation to Quote to Invitation to Request documents. Led the PMO function of Accounting Advisory training. Checked that the scope and fees of each client training were suitable according to the requirements quantified in the internal risk management policy. 
 
 <!-- EXPERIENCE Section Ends -->
 
