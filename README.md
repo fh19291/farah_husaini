@@ -16,7 +16,7 @@
 
 <!-- Add your details -->
 
-I am __Farah Husaini__, a project manager with ~7 years of progressive experience in Financial services, Healthcare and recently, in Ed-tech. I have contributed as an Agile and AI member in Project Management Institute, Singapore Chapter and am co-organising a 24-hour, APAC Agile Symposium 2024 event this November. 
+I am __Farah Husaini__, a project manager with ~7 years of progressive experience in Financial services, Healthcare and recently, in Ed-tech. I have contributed my expertise as an Agile and AI member in Project Management Institute, Singapore Chapter, hosting in-person and webinar sessions for Project Management Professionals with upcoming events such as a 24-hour, APAC Agile Symposium 2024 this November, across regions.
 
 
 <!-- Add link to the sections -->
