@@ -31,14 +31,23 @@ I am __Farah Husaini__, a project manager with ~7 years of progressive experienc
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+##### PRODUCT HOUSE
+AI PROMPT ENGINEER SUPPORT<br>
+Mar-2024 to Jun-2024: 4 Months
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+ROLE: genAI / Business Development Consultant
+INDUSTRY: Education-Tech
 
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+Research and evaluate different genAI platforms such OpenAI, CoPilot, Claude, and MistralAI to assess suitability to the project's goals. Perform testing and optimisation using benchmarks such as BLEU score. Cultivate and manage business development opportunities, documenting the process, configurations, and usage guidelines for future reference and scalability on Notion Teamspaces and MIRO.
+
+##### PRODUCT HOUSE
+AI PROMPT ENGINEER SUPPORT<br>
+Mar-2024 to Jun-2024: 4 Months
+
+ROLE: genAI / Business Development Consultant
+INDUSTRY: Education-Tech
+
+Research and evaluate different genAI platforms such OpenAI, CoPilot, Claude, and MistralAI to assess suitability to the project's goals. Perform testing and optimisation using benchmarks such as BLEU score. Cultivate and manage business development opportunities, documenting the process, configurations, and usage guidelines for future reference and scalability on Notion Teamspaces and MIRO.
 
 <!-- EXPERIENCE Section Ends -->
 
