@@ -81,7 +81,9 @@ Regression is a supervised learning technique which helps in finding the correla
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Machine Learning by Columbia University
+AZ-900 Microsoft Azure Fundamentals
+AI-102 Microsoft AI Engineer Associate
+PL-900 Microsoft Power Platform Fundamentals
 
 ##### Achievements
 Star performer of the year at Accenture
