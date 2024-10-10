@@ -16,7 +16,7 @@
 
 <!-- Add your details -->
 
-I am __Farah Husaini__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Farah Husaini__, a project manager with ~7 years of progressive experience in Financial services, Healthcare and recently, in Ed-tech. I have contributed as an Agile and AI member in Project Management Institute, Singapore Chapter and am co-organising a 24-hour, APAC Agile Symposium 2024 event this November. 
 
 
 <!-- Add link to the sections -->
