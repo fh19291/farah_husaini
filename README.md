@@ -81,8 +81,8 @@ Regression is a supervised learning technique which helps in finding the correla
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-AZ-900 Microsoft Azure Fundamentals
-AI-102 Microsoft AI Engineer Associate
+AZ-900 Microsoft Azure Fundamentals <br>
+AI-102 Microsoft AI Engineer Associate <br>
 PL-900 Microsoft Power Platform Fundamentals
 
 ##### Achievements
