@@ -101,7 +101,8 @@ Economics and Finance 2017
 <!-- Add your details -->
 
 #### Statistical Analysis projects
-![alt text](https://github.com/fh19291/farah_husaini/blob/main/documents/Group%204_Mini%20project%202%20solution/Group%204_Mini%20project%202%20solution.ipynb)
+![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
+[Click here to view codebase](https://github.com/fh19291/farah_husaini/blob/main/documents/Group%204_Mini%20project%202%20solution/Group%204_Mini%20project%202%20solution.ipynb)
 
 #### Regression based projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
