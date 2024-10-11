@@ -96,20 +96,12 @@ Economics and Finance 2017
 <!-- Add your details -->
 
 [Statistical Analysis projects](#statistical-analysis-projects) <br>
-[Regression based projects](#regression-based-projects) <br>
 
 <!-- Add your details -->
 
 #### Statistical Analysis projects
-![alt text](https://github.com/fh19291/farah_husaini/blob/3d5a815c6ee9410104fb762a328c399caca377c4/documents/Group%204_Mini%20project%202%20solution/test%20of%20significance.png)
+![alt text](https://github.com/fh19291/farah_husaini/blob/3d5a815c6ee9410104fb762a328c399caca377c4/documents/Group%204_Mini%20project%202%20solution/test%20of%20significance.png) <br>
 [Click here to view codebase](https://github.com/fh19291/farah_husaini/blob/main/documents/Group%204_Mini%20project%202%20solution/Group%204_Mini%20project%202%20solution.ipynb)
-
-#### Regression based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
-
-Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
-
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
 <!-- PROJECTS Section Ends -->
 
