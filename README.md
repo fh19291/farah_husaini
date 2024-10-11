@@ -101,7 +101,7 @@ Economics and Finance 2017
 <!-- Add your details -->
 
 #### Statistical Analysis projects
-![alt text](documents/Group 4_Mini project 2 solution/test of significance.png)
+![alt text](https://github.com/fh19291/farah_husaini/blob/3d5a815c6ee9410104fb762a328c399caca377c4/documents/Group%204_Mini%20project%202%20solution/test%20of%20significance.png)
 [Click here to view codebase](https://github.com/fh19291/farah_husaini/blob/main/documents/Group%204_Mini%20project%202%20solution/Group%204_Mini%20project%202%20solution.ipynb)
 
 #### Regression based projects
