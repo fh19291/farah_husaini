@@ -23,7 +23,6 @@ I am __Farah Husaini__, a project manager with ~7 years of progressive experienc
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br>
-[Publications](#publications) <br>
 
 <!-- ABOUT Section Ends -->
 
@@ -118,8 +117,3 @@ Math Tutor for students ages 7-16 under FAS (Financial Assistance Scheme) <br>
 Volunteer Member at Project Management Insitute, Singapore Chapter (Agile and AI)
 
 <!-- FEATURED Section Ends -->
-
-<!-- PUBLICATIONS Section Starts -->
-### PUBLICATIONS
-White paper - Developing the Next Generation of Project Professionals
-<!-- PUBLICATIONS Section Ends -->
