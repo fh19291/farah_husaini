@@ -95,19 +95,13 @@ Economics and Finance 2017
 ### PROJECTS
 <!-- Add your details -->
 
-[Classification based projects](#classification-based-projects) <br>
+[Statistical Analysis projects](#statistical-analysis-projects) <br>
 [Regression based projects](#regression-based-projects) <br>
 
 <!-- Add your details -->
 
-#### Classification based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
-
-[Mini Project 2](https://github.com/fh19291/farah_husaini/blob/main/documents/Group%204_Mini%20project%202%20solution/Group%204_Mini%20project%202%20solution.ipynb)
-
-In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
-
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
+#### Statistical Analysis projects
+![alt text](https://github.com/fh19291/farah_husaini/blob/main/documents/Group%204_Mini%20project%202%20solution/Group%204_Mini%20project%202%20solution.ipynb)
 
 #### Regression based projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
